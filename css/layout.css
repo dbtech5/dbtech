@@ -128,7 +128,7 @@ a:focus {
 
 @media only screen and (max-width: 600px){
     .menu-right{
-        width: 90%;
+        width: 95%;
         margin:0 auto; 
         text-align:center; 
         padding-top:6px; 
@@ -139,6 +139,7 @@ a:focus {
     }
     .header-title-smail{
         display: inline-block;
+        font:normal 15px Leelawadee; 
     }
 }
 
